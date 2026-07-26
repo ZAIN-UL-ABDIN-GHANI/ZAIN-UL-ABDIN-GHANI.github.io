@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=220&section=header&text=Zain%20Ul%20Abdin%20Ghani&fontSize=44&fontColor=00d9ff&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20Applications&descSize=17&descAlignY=72&descColor=8892b0" />
@@ -45,7 +44,7 @@ to <strong>APIs, frontend applications, testing, and deployment.</strong>
 
 # ⚡ About Me
 
-I am a **Full-Stack AI Engineer** focused on building practical and production-oriented AI applications.
+I'm a Full-Stack Developer specializing in AI Engineering — Agentic AI, RAG, and production-oriented LLM systems. Since 2024, I've moved deliberately from frontend development, through full-stack engineering (MERN), to building AI-focused backend systems today, and I completed my BS in Computer Science in 2026.
 
 My work sits at the intersection of:
 
@@ -106,7 +105,7 @@ My goal is simple:
                        DEPLOYMENT & TOOLS
                                 │
                        Docker / Git / GitHub
-````
+```
 
 ---
 
@@ -266,8 +265,6 @@ Intelligent Response
 
 ### 🔗 Source Code
 
-> **Replace the URL below with your actual DocIQ repository URL.**
-
 <a href="REPLACE_WITH_YOUR_DOCIQ_REPO_URL">
 <img src="https://img.shields.io/badge/View_DocIQ_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -410,6 +407,8 @@ A software engineering project exploring blockchain-based application concepts a
 
 # 💼 Professional Experience
 
+*A clear progression — frontend → full-stack → AI engineering — since 2024.*
+
 ## 🤖 Artificial Intelligence Intern — FlyRank AI
 
 `July 2026 – Present · Remote`
@@ -451,11 +450,11 @@ A software engineering project exploring blockchain-based application concepts a
 
 ## 🤖 AI & Generative AI
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00D9FF?style=for-the-badge)
 
 **Agentic AI · Multi-Agent Systems · LLM Applications · Prompt Engineering · RAG · Embeddings · Vector Search · AI Automation**
@@ -464,9 +463,9 @@ A software engineering project exploring blockchain-based application concepts a
 
 ## ⚡ Backend & APIs
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **REST APIs · JWT Authentication · Repository Pattern · Dependency Injection · Backend Architecture**
 
@@ -474,9 +473,9 @@ A software engineering project exploring blockchain-based application concepts a
 
 ## 📊 Machine Learning & Data
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Machine Learning · NLP · Semantic Search · Data Processing · Embeddings**
 
@@ -490,9 +489,9 @@ A software engineering project exploring blockchain-based application concepts a
 
 ## ⚛️ Full Stack
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **React · JavaScript · Tailwind CSS · Node.js · Express.js**
 
@@ -500,9 +499,9 @@ A software engineering project exploring blockchain-based application concepts a
 
 ## 🐳 DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Docker · Git · GitHub · Vercel · Render · Cloudinary**
 
@@ -702,4 +701,3 @@ If you are building something ambitious with AI, I'd love to connect.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=100&section=footer&animation=twinkling" />
 
 </div>
-```
