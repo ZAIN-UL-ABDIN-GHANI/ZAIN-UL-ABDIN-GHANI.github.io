@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=220&section=header&text=Zain%20Ul%20Abdin%20Ghani&fontSize=44&fontColor=00d9ff&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20Applications&descSize=17&descAlignY=72&descColor=8892b0" />
+<h1>Hi, I'm ZAIN UL ABDIN GHANI </h1>
 
-<h1>Hi, I'm Zain Ul Abdin Ghani 👋</h1>
-
-<h3>Full-Stack AI Engineer · Agentic AI · LLM Applications · RAG · AI Automation</h3>
+<h3>Full-Stack AI Engineer · Agentic AI · LLM Applications · RAG </h3>
 
 <p>
 Building intelligent applications that combine
@@ -265,7 +263,7 @@ Intelligent Response
 
 ### 🔗 Source Code
 
-<a href="REPLACE_WITH_YOUR_DOCIQ_REPO_URL">
+<a href="https://github.com/ZAIN-UL-ABDIN-GHANI/Intelligent-Document-Workflow">
 <img src="https://img.shields.io/badge/View_DocIQ_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -554,14 +552,6 @@ engineering:
 # 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZAIN-UL-ABDIN-GHANI&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" alt="Zain Ul Abdin Ghani GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAIN-UL-ABDIN-GHANI&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ZAIN-UL-ABDIN-GHANI&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
