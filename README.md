@@ -434,7 +434,7 @@ A software engineering project exploring blockchain-based application concepts a
 
 ## 🎨 Frontend Developer Intern — TMR Consulting
 
-`June 2024 – August 2024 · Islamabad, Pakistan`
+`June 2024 – September 2024 · Islamabad, Pakistan`
 
 * Developed responsive interfaces using React.js, Next.js, JavaScript, HTML5, and CSS
 * Built reusable UI components with Tailwind CSS
