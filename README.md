@@ -1,692 +1,137 @@
 <div align="center">
 
-<h1>Hi, I'm ZAIN UL ABDIN GHANI </h1>
+# Hi, I'm Zain Ul Abdin Ghani
 
-<h3>Full-Stack AI Engineer · Agentic AI · LLM Applications · RAG </h3>
+### AI Engineer | Full Stack Developer
 
-<p>
-Building intelligent applications that combine
-<strong>Generative AI, Agentic Workflows, RAG, Backend Engineering, and Full-Stack Development.</strong>
-</p>
+Building applications with LLMs, RAG, and agentic workflows — backed by a full-stack engineering foundation.
 
-<p>
-I build AI systems from <strong>model orchestration and backend architecture</strong>
-to <strong>APIs, frontend applications, testing, and deployment.</strong>
-</p>
-
-<br/>
-
-<a href="https://linkedin.com/in/zainulabdinghani15/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:zainulabdinghani15@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://zainulabdinghani.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-<a href="https://github.com/ZAIN-UL-ABDIN-GHANI">
-<img src="https://img.shields.io/badge/GitHub-Projects-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Production-Oriented+AI+Systems;Agentic+AI+%7C+LangGraph+%7C+LangChain;RAG+Pipelines+%7C+Vector+Search+%7C+FastAPI;LLM+Applications+%7C+AI+Automation;Turning+AI+Capabilities+into+Real+Software" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/zain-ul-abdin-ghani15/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:zainulabdinghani15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://zainulabdinghani.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://github.com/ZAIN-UL-ABDIN-GHANI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
----
+<br>
 
-# ⚡ About Me
+## About Me
 
-I'm a Full-Stack Developer specializing in AI Engineering — Agentic AI, RAG, and production-oriented LLM systems. Since 2024, I've moved deliberately from frontend development, through full-stack engineering (MERN), to building AI-focused backend systems today, and I completed my BS in Computer Science in 2026.
+I'm a Computer Science student at SZABIST Islamabad (CGPA 3.24/4.00, graduating August 2026). Over the past two years I've moved from frontend development into full-stack engineering, and more recently into hands-on AI engineering.
 
-My work sits at the intersection of:
+I have 1+ year of practical full-stack development experience, and most of my current work is in Python — building RAG pipelines, agentic workflows with LangChain and LangGraph, and LLM-powered applications on top of Gemini and Claude. I'm interested in what happens after the demo: turning AI capabilities into systems with real APIs, retrieval, and working backends.
 
-**Artificial Intelligence + Generative AI + Backend Engineering + Full-Stack Development**
-
-I specialize in designing and building systems using:
-
-- 🤖 Large Language Models and Generative AI
-- 🧠 Agentic AI and Multi-Agent Systems
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🕸️ LangChain and LangGraph
-- ⚡ Python and FastAPI
-- 🗃️ Vector Search and Embeddings
-- 🧩 AI-powered backend architectures
-- ⚛️ React and modern frontend applications
-- 🐳 Docker and deployment workflows
-
-My goal is simple:
-
-> **Turn AI capabilities into reliable, useful, and production-ready software.**
+I learn by building. Every project below is something I designed and shipped myself.
 
 ---
 
-# 🧠 What I Build
+## 🎓 Education
 
-```text
-                         AI APPLICATIONS
-                                │
-                ┌───────────────┼───────────────┐
-                │               │               │
-                ▼               ▼               ▼
-           AGENTIC AI          RAG        LLM APPLICATIONS
-                │               │               │
-           LangGraph        FAISS          Gemini
-           LangChain       Embeddings       GPT
-           Multi-Agent     Retrieval       LLM APIs
-           Workflows       Vector Search    Prompt Engineering
-                │               │               │
-                └───────────────┼───────────────┘
-                                │
-                                ▼
-                       AI BACKEND SYSTEMS
-                                │
-                         Python / FastAPI
-                                │
-                ┌───────────────┴───────────────┐
-                │                               │
-                ▼                               ▼
-          DATA & STORAGE                   FULL STACK
-                │                               │
-        PostgreSQL / SQL                 React / JavaScript
-        MongoDB / SQLite                 Node.js / Express
-        FAISS / Vectors                  Tailwind CSS
-                │                               │
-                └───────────────┬───────────────┘
-                                │
-                                ▼
-                       DEPLOYMENT & TOOLS
-                                │
-                       Docker / Git / GitHub
-```
+**Bachelor of Science in Computer Science**
+SZABIST Islamabad
+CGPA: 3.24 / 4.00 · Expected Graduation: August 2026
 
 ---
 
-# 🚀 Featured AI Projects
+## 💼 Experience
 
-## 🧠 Intelligent Document Workflow Engine — DocIQ
+**MERN Stack Intern — DevRolin**
+`June 2025 – September 2025`
+Built full-stack features using the MERN stack, worked on REST APIs with JWT authentication, and contributed backend logic through a Git-based team workflow.
 
-### Multi-Agent AI · RAG · LangGraph · OCR · Vision · FastAPI · FAISS · Gemini
-
-A document intelligence system designed to process, understand, retrieve, reason over, and summarize information from both **digital and scanned documents**.
-
-The system combines **multi-agent orchestration, OCR, vision-based processing, semantic retrieval, vector search, and LLM-powered reasoning** into a single intelligent workflow.
-
-### 🔥 What I Built
-
-* 🧠 Designed a multi-agent architecture using **LangGraph**
-* 📥 Built document ingestion and processing workflows
-* 📄 Supported digital document extraction
-* 👁️ Added OCR and vision-based processing for scanned documents
-* ✂️ Implemented document chunking and preprocessing
-* 🔎 Built RAG pipelines using **FAISS vector search**
-* 🧬 Generated embeddings for semantic document retrieval
-* 🧩 Designed retrieval, reasoning, QA, and summarization workflows
-* 🗃️ Used SQLite for document metadata and contextual memory
-* ✨ Integrated Gemini API for classification, extraction, and summarization
-* ⚡ Built a modular FastAPI backend
-* 📊 Evaluated retrieval performance using a custom test dataset
+**Frontend Developer Intern — TMR Consulting**
+`June 2024 – July 2024`
+Built responsive interfaces with React and Tailwind CSS, integrated REST APIs into the frontend, and collaborated with the team using Git and GitHub.
 
 ---
 
-## 🏗️ System Architecture
+## 🤖 AI Engineering
 
-```text
-                         ┌──────────────────────────┐
-                         │      DOCUMENT INPUT       │
-                         │   PDF • DOCX • SCANNED   │
-                         └────────────┬─────────────┘
-                                      │
-                                      ▼
-                         ┌──────────────────────────┐
-                         │      INGESTION AGENT      │
-                         └────────────┬─────────────┘
-                                      │
-                       ┌──────────────┴──────────────┐
-                       │                             │
-                       ▼                             ▼
-             ┌──────────────────┐          ┌──────────────────┐
-             │  DIGITAL PARSING │          │   OCR + VISION   │
-             │  TEXT EXTRACTION │          │  SCANNED DOCS    │
-             └─────────┬────────┘          └─────────┬────────┘
-                       │                             │
-                       └──────────────┬──────────────┘
-                                      │
-                                      ▼
-                         ┌──────────────────────────┐
-                         │    DOCUMENT CHUNKING     │
-                         └────────────┬─────────────┘
-                                      │
-                                      ▼
-                         ┌──────────────────────────┐
-                         │   EMBEDDING GENERATION   │
-                         └────────────┬─────────────┘
-                                      │
-                                      ▼
-                         ┌──────────────────────────┐
-                         │     FAISS VECTOR STORE   │
-                         │      SEMANTIC SEARCH      │
-                         └────────────┬─────────────┘
-                                      │
-                                      ▼
-                         ┌──────────────────────────┐
-                         │      RETRIEVAL AGENT     │
-                         └────────────┬─────────────┘
-                                      │
-                                      ▼
-                    ┌──────────────────────────────────┐
-                    │       LANGGRAPH ORCHESTRATOR     │
-                    └────────────────┬─────────────────┘
-                                     │
-                    ┌────────────────┼────────────────┐
-                    │                │                │
-                    ▼                ▼                ▼
-             ┌─────────────┐  ┌─────────────┐  ┌──────────────┐
-             │  REASONING  │  │     QA      │  │ SUMMARIZATION│
-             │    AGENT    │  │    AGENT    │  │    AGENT     │
-             └──────┬──────┘  └──────┬──────┘  └──────┬───────┘
-                    │                │                │
-                    └────────────────┼────────────────┘
-                                     │
-                                     ▼
-                         ┌──────────────────────────┐
-                         │       GEMINI API         │
-                         │ Classification • LLM     │
-                         │ Extraction • Summary     │
-                         └────────────┬─────────────┘
-                                      │
-                                      ▼
-                         ┌──────────────────────────┐
-                         │      FASTAPI BACKEND     │
-                         │      REST API SERVICES   │
-                         └──────────────────────────┘
-```
+Alongside full-stack development, most of my recent hands-on work is in applied AI engineering — building systems around LLMs rather than just calling an API and stopping there.
+
+- Designing **RAG pipelines** with FAISS vector search and embeddings for semantic retrieval
+- Building **agentic workflows** and multi-agent orchestration with LangChain and LangGraph
+- Working with **LLM APIs** (Gemini, Claude) for classification, extraction, reasoning, and summarization
+- Building **AI-focused backends** with Python and FastAPI, including OCR and document processing
+- Applying **prompt engineering** and core **machine learning** across projects
+
+This is grounded in the projects below, not coursework.
 
 ---
 
-## 🔄 AI Processing Workflow
+## 🚀 Featured AI Projects
 
-```text
-Document
-    │
-    ▼
-Ingestion
-    │
-    ▼
-Text Extraction
-    │
-    ├─────────────── Digital Document
-    │
-    └─────────────── OCR + Vision
-    │
-    ▼
-Document Chunking
-    │
-    ▼
-Embedding Generation
-    │
-    ▼
-FAISS Vector Search
-    │
-    ▼
-Relevant Context Retrieval
-    │
-    ▼
-LangGraph Multi-Agent Workflow
-    │
-    ├──────► Reasoning
-    │
-    ├──────► Question Answering
-    │
-    └──────► Summarization
-    │
-    ▼
-Gemini LLM
-    │
-    ▼
-FastAPI Backend
-    │
-    ▼
-Intelligent Response
-```
+A selection of the systems I've designed and built:
+
+### 🧠 DocIQ — Intelligent Document Workflow Engine
+A multi-agent AI backend that turns PDFs and scanned images into a searchable, conversational knowledge base. A LangGraph architecture handles ingestion, indexing, and question-answering, with OCR support for scanned files and FAISS-based semantic search powering retrieval.
+
+`LangGraph` `RAG` `FAISS` `OCR` `Gemini API` `FastAPI` `LangChain`
+
+**Repository:** [Intelligent-Document-Workflow](https://github.com/ZAIN-UL-ABDIN-GHANI/Intelligent-Document-Workflow)
+
+### 🛠️ AI Architecture & Code Review Copilot
+An agentic engineering assistant built as a LangGraph workflow — it gathers requirements, retrieves relevant context with FAISS, plans implementation, and reviews code, with a FastAPI backend tying the agents together.
+
+`LangGraph` `Agentic AI` `FAISS` `FastAPI`
+
+### 🎙️ AI Debate Chamber
+A multi-agent platform where two LLM-powered agents debate opposing sides of a topic. Built with Python and Flask.
+
+`Python` `Flask` `Multi-Agent AI` `LLMs`
+
+### 🌐 OmniRoute — AI Gateway Platform
+An LLM gateway that routes requests across multiple providers (Gemini, Claude, GPT, Gemma) based on cost, latency, and request complexity, with explainable routing decisions and a usage analytics dashboard.
+
+`LangGraph` `FastAPI` `React` `Docker` `Multi-Provider Routing`
+
+**Repository:** [Intelligent-AI-Gateway-Platform](https://github.com/ZAIN-UL-ABDIN-GHANI/Intelligent-AI-Gateway-Platform)
+
+### 🛒 Simplified Grocery Shopping System
+A full-stack grocery shopping app with an AI dietary assistant layered on top of the core shopping flow — recommending items and helping manage a household pantry.
+
+`React` `Node.js` `Express.js` `MongoDB` `AI Recommendations`
 
 ---
 
-## 🧰 Technology Stack
+## 🧰 Tech Stack
 
-`Python` `FastAPI` `LangChain` `LangGraph` `RAG` `FAISS` `Embeddings` `Gemini API` `OCR` `Vision Models` `SQLite` `Docker`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🔗 Source Code
-
-<a href="https://github.com/ZAIN-UL-ABDIN-GHANI/Intelligent-Document-Workflow">
-<img src="https://img.shields.io/badge/View_DocIQ_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-# 🌐 AI Gateway Platform
-
-### Multi-Provider LLM Gateway · Intelligent Routing · LangGraph · FastAPI
-
-An intelligent LLM gateway designed to route requests across multiple AI providers based on **cost, latency, model capability, and configurable policies**.
-
-### 🔥 What I Built
-
-* 🌐 Designed a multi-provider LLM gateway
-* 🤖 Integrated Gemini, Claude, GPT, and Gemma
-* 🧠 Built configurable model routing policies
-* 💰 Added cost-aware model selection
-* ⚡ Added latency-aware routing
-* 🧩 Added capability-based model selection
-* 🔍 Built explainable routing decisions
-* 🚀 Implemented response caching
-* 📊 Added LLM usage analytics
-* 🐳 Containerized the application using Docker
-* 🧪 Validated routing and policy logic with **39 automated tests**
-
-### 🏗️ Architecture
-
-```text
-                    USER REQUEST
-                         │
-                         ▼
-                ┌─────────────────┐
-                │  FASTAPI GATEWAY │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │  POLICY ENGINE  │
-                └────────┬────────┘
-                         │
-             ┌───────────┼───────────┐
-             │           │           │
-             ▼           ▼           ▼
-           COST       LATENCY    CAPABILITY
-             │           │           │
-             └───────────┼───────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │   LLM ROUTER    │
-                └────────┬────────┘
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-       Gemini           GPT          Claude
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │ UNIFIED RESPONSE │
-                └────────┬────────┘
-                         │
-                ┌────────┴────────┐
-                ▼                 ▼
-             CACHE            ANALYTICS
-```
-
-### 🧰 Technology Stack
-
-`Python` `FastAPI` `LangGraph` `LLM APIs` `Gemini` `GPT` `Claude` `Gemma` `Docker` `Automated Testing`
-
-### 🔗 Source Code
-
-<a href="https://github.com/ZAIN-UL-ABDIN-GHANI/Intelligent-AI-Gateway-Platform">
-<img src="https://img.shields.io/badge/View_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript |
+| **AI / ML** | LLMs, Agentic AI, RAG, Machine Learning, Prompt Engineering, Embeddings, Gemini API, Claude API |
+| **AI Frameworks** | LangChain, LangGraph |
+| **Backend** | FastAPI, Node.js, Express.js, REST APIs |
+| **Frontend** | React, Tailwind CSS, Redux Toolkit |
+| **Databases** | MongoDB, PostgreSQL, FAISS, Vector Databases |
+| **Tools** | Git, GitHub, Docker, Postman, VS Code, Vercel, Netlify |
 
 ---
 
-# 🔍 Document Similarity Engine
+## 🎯 Current Focus
 
-### NLP · Semantic Similarity · Flask · Text Processing
-
-A Flask-based NLP application designed to analyze documents and measure semantic similarity for automated content matching.
-
-### 🔥 Highlights
-
-* Built a Flask-based backend
-* Applied NLP techniques for document comparison
-* Implemented semantic similarity workflows
-* Designed automated document matching functionality
-
-### 🔗 Source Code
-
-<a href="https://github.com/ZAIN-UL-ABDIN-GHANI/Document-Similarity-Engine">
-<img src="https://img.shields.io/badge/View_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- Going deeper on **agentic AI** and multi-agent orchestration
+- Building more **production-grade RAG systems**
+- Learning **MCP (Model Context Protocol)** and tool-calling patterns for agents
+- Strengthening backend architecture with **Python and FastAPI**
 
 ---
 
-# ⚙️ AgentWeb
+## 📬 Let's Connect
 
-### Full-Stack Web Application · React · Node.js · Express · MongoDB
-
-A full-stack web application demonstrating modern frontend and backend engineering with REST API integration and database-backed workflows.
-
-### 🔥 Highlights
-
-* Built responsive React interfaces
-* Developed RESTful backend services
-* Integrated frontend and backend APIs
-* Worked with database-backed workflows
-* Applied Git and GitHub workflows
-* Built full-stack application functionality
-
-### 🔗 Source Code
-
-<a href="https://github.com/ZAIN-UL-ABDIN-GHANI/Agentweb">
-<img src="https://img.shields.io/badge/View_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-# ⛓️ Blockchain Project
-
-### Blockchain · Software Engineering · Decentralized Technology
-
-A software engineering project exploring blockchain-based application concepts and decentralized technology.
-
-### 🔗 Source Code
-
-<a href="https://github.com/ZAIN-UL-ABDIN-GHANI/BLOCKCHAINPROJECT">
-<img src="https://img.shields.io/badge/View_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-# 💼 Professional Experience
-
-*A clear progression — frontend → full-stack → AI engineering — since 2024.*
-
-## 🤖 Artificial Intelligence Intern — FlyRank AI
-
-`July 2026 – Present · Remote`
-
-* Building backend services using **Python and FastAPI**
-* Applying the **Repository Pattern** to separate business logic from data access
-* Working with **PostgreSQL** for data persistence
-* Applying **Dependency Injection** for modular and testable services
-* Using **Docker** for consistent development and deployment environments
-* Developing practical experience in production-oriented AI and backend engineering
-
----
-
-## 💻 MERN Stack Intern — Devrolin
-
-`June 2025 – September 2025 · Rawalpindi, Pakistan`
-
-* Developed full-stack application features using the MERN stack
-* Designed REST APIs with JWT authentication
-* Worked with MongoDB-backed application data
-* Contributed backend logic using Git-based development workflows
-* Collaborated with developers to deliver full-stack features
-
----
-
-## 🎨 Frontend Developer Intern — TMR Consulting
-
-`June 2024 – September 2024 · Islamabad, Pakistan`
-
-* Developed responsive interfaces using React.js, Next.js, JavaScript, HTML5, and CSS
-* Built reusable UI components with Tailwind CSS
-* Integrated REST APIs into frontend applications
-* Collaborated with developers using Git and GitHub
-* Improved application performance through debugging and code optimization
-
----
-
-# 🛠️ Technical Skills
-
-## 🤖 AI & Generative AI
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00D9FF?style=for-the-badge)
-
-**Agentic AI · Multi-Agent Systems · LLM Applications · Prompt Engineering · RAG · Embeddings · Vector Search · AI Automation**
-
----
-
-## ⚡ Backend & APIs
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**REST APIs · JWT Authentication · Repository Pattern · Dependency Injection · Backend Architecture**
-
----
-
-## 📊 Machine Learning & Data
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Machine Learning · NLP · Semantic Search · Data Processing · Embeddings**
-
----
-
-## 🗃️ Databases
-
-**PostgreSQL · MongoDB · SQLite · SQL · FAISS**
-
----
-
-## ⚛️ Full Stack
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**React · JavaScript · Tailwind CSS · Node.js · Express.js**
-
----
-
-## 🐳 DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Docker · Git · GitHub · Vercel · Render · Cloudinary**
-
----
-
-# 🎓 Education
-
-### BS Computer Science
-
-**SZABIST University**
-Islamabad, Pakistan
-
-`August 2022 – June 2026`
-
----
-
-# 🎯 Current Focus
-
-```yaml
-role:
-  - Full-Stack AI Engineer
-  - AI Engineer
-  - Generative AI Engineer
-  - Agentic AI Engineer
-  - LLM Application Engineer
-
-focus:
-  - Agentic AI
-  - Multi-Agent Systems
-  - RAG Pipelines
-  - LLM Applications
-  - AI Automation
-  - LLM Evaluation
-  - MCP
-  - Tool Calling
-  - Production AI Systems
-
-engineering:
-  - Python
-  - FastAPI
-  - LangGraph
-  - LangChain
-  - React
-  - PostgreSQL
-  - Docker
-```
-
----
-
-# 📊 GitHub Activity
-<br/><br/>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ZAIN-UL-ABDIN-GHANI&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
-
-<br/><br/><br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAIN-UL-ABDIN-GHANI&theme=tokyo-night&hide_border=true&area=true&cache_seconds=0&t=20260730" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-# 🧬 Engineering Philosophy
-
-> **Don't just build AI demos. Build complete systems around AI.**
-
-```text
-                         REAL-WORLD PROBLEM
-                                  │
-                                  ▼
-                         SYSTEM ARCHITECTURE
-                                  │
-                                  ▼
-                          AI / LLM INTEGRATION
-                                  │
-                                  ▼
-                          AGENTIC WORKFLOW
-                                  │
-                                  ▼
-                         DATA + RETRIEVAL
-                                  │
-                                  ▼
-                            BACKEND API
-                                  │
-                                  ▼
-                         FRONTEND EXPERIENCE
-                                  │
-                                  ▼
-                              TESTING
-                                  │
-                                  ▼
-                              DOCKER
-                                  │
-                                  ▼
-                            DEPLOYMENT
-                                  │
-                                  ▼
-                       PRODUCTION-READY SYSTEM
-```
-
-### My Engineering Principles
-
-```python
-class FullStackAIEngineer:
-
-    def build(self, problem):
-
-        understand = "Understand the real problem"
-
-        design = "Design reliable system architecture"
-
-        orchestrate = "Orchestrate AI agents and LLMs"
-
-        retrieve = "Ground responses with relevant context"
-
-        engineer = "Build scalable APIs and applications"
-
-        test = "Validate the system with meaningful tests"
-
-        deploy = "Ship reliable, production-ready software"
-
-        return "AI that solves real problems"
-```
-
----
-
-# 🌟 What I Bring
-
-```text
-                    FULL-STACK AI ENGINEERING
-                              │
-          ┌───────────────────┼───────────────────┐
-          │                   │                   │
-          ▼                   ▼                   ▼
-       AI / LLM           BACKEND             FRONTEND
-          │                   │                   │
-     Agentic AI           Python              React
-     RAG                  FastAPI             JavaScript
-     LangGraph            REST APIs            Tailwind
-     LangChain            PostgreSQL           UI/UX
-     LLM APIs             Docker
-          │                   │                   │
-          └───────────────────┼───────────────────┘
-                              │
-                              ▼
-                     PRODUCTION SYSTEMS
-                              │
-                              ▼
-                   AI + SOFTWARE ENGINEERING
-```
-
----
-
-# 🤝 Let's Connect
-
-I am interested in opportunities involving:
-
-**AI Engineering · Generative AI · Agentic AI · LLM Applications · RAG · AI Automation · Python · FastAPI · Full-Stack AI**
-
-If you are building something ambitious with AI, I'd love to connect.
+I'm looking for **AI Engineer** and **Full Stack Developer** roles where I can keep building real systems with LLMs, RAG, and agentic workflows.
 
 <div align="center">
 
-<br/>
-
-### 🚀 Building AI Systems That Reason, Retrieve, and Act.
-
-<br/>
-
-<a href="https://linkedin.com/in/zainulabdinghani15/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://zainulabdinghani.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-<a href="mailto:zainulabdinghani15@gmail.com">
-<img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ZAIN-UL-ABDIN-GHANI">
-<img src="https://img.shields.io/badge/GitHub-Explore-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=100&section=footer&animation=twinkling" />
+[zainulabdinghani15@gmail.com](mailto:zainulabdinghani15@gmail.com) · [LinkedIn](https://www.linkedin.com/in/zain-ul-abdin-ghani15/) · [Portfolio](https://zainulabdinghani.vercel.app) · [GitHub](https://github.com/ZAIN-UL-ABDIN-GHANI)
 
 </div>
