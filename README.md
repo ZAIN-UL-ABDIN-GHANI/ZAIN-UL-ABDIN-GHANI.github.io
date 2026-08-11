@@ -169,7 +169,7 @@ Intelligent gateway that routes requests across multiple AI providers (Gemini, C
 ### ⭐ Check Out My Projects
 **[github.com/ZAIN-UL-ABDIN-GHANI](https://github.com/ZAIN-UL-ABDIN-GHANI)**
 
-View my projects and contributions across AI engineering, full-stack development, and open-source work.
+View my projects and contributions across AI engineering and full-stack development
 
 </div>
 
