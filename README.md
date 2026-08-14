@@ -208,12 +208,11 @@ View my projects and contributions across AI engineering and full-stack developm
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ZAIN-UL-ABDIN-GHANI&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZAIN-UL-ABDIN-GHANI&theme=tokyonight&hide_border=true" />
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ZAIN-UL-ABDIN-GHANI&theme=tokyo-night&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAIN-UL-ABDIN-GHANI&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
