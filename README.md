@@ -1,21 +1,23 @@
-# Zain Ul Abdin Ghani
-
 <div align="center">
 
-**Full-Stack AI Engineer | Agentic AI | LLM Applications | RAG | Python | FastAPI | React**
+# Zain Ul Abdin Ghani
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainulabdinghani15/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zainulabdinghani15@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://zainulabdinghani.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/ZAIN-UL-ABDIN-GHANI)
+### Full-Stack AI Engineer · Agentic AI · LLM Applications · RAG
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=650&lines=Full-Stack+AI+Engineer;Agentic+AI%2C+LLM+Apps%2C+RAG;Python%2C+FastAPI%2C+LangGraph%2C+React;Turning+LLMs+into+Production+Systems)](https://github.com/ZAIN-UL-ABDIN-GHANI)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainulabdinghani15/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainulabdinghani15@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://zainulabdinghani.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZAIN-UL-ABDIN-GHANI)
 
 </div>
 
 ---
 
-I am a **Full Stack AI Engineer** with **1+ year of hands-on Full Stack Web Development experience** and practical experience in **AI Engineering** including Agentic AI, LLMs, RAG, LangGraph, LangChain, AI APIs, Vector Databases, and Python.
-
-I specialize in building **production-oriented AI systems** that combine backend orchestration, multi-agent workflows, retrieval-augmented generation, and modern full-stack development.
+> I am a **Full Stack AI Engineer** with **1+ year of hands-on Full Stack Web Development experience** and practical experience in **AI Engineering** including Agentic AI, LLMs, RAG, LangGraph, LangChain, AI APIs, Vector Databases, and Python.
+>
+> I specialize in building **production-oriented AI systems** that combine backend orchestration, multi-agent workflows, retrieval-augmented generation, and modern full-stack development.
 
 ---
 
@@ -23,17 +25,17 @@ I specialize in building **production-oriented AI systems** that combine backend
 
 Full Stack AI Engineer with practical experience building production-oriented AI systems using **Agentic AI, LangGraph, LangChain, and RAG**. I specialize in AI backend architecture, LLM integration, and multi-agent orchestration with Python and FastAPI.
 
-**Currently focused on:**  
+**Currently focused on:**<br/>
 `Agentic AI` · `RAG Pipelines` · `LLM Applications` · `Backend Architecture` · `AI System Design`
 
-📍 **Location:** Islamabad, Pakistan | 🌍 **Open to:** Remote AI Engineering roles
+📍 **Location:** Islamabad, Pakistan &nbsp;·&nbsp; 🌍 **Open to:** Remote AI Engineering roles
 
 ---
 
 ## 💼 Experience
 
 ### 🤖 AI/ML Engineering Intern — Zenvyro Labs
-**July 13 – August 16, 2026** | *Remote*
+📅 **July 13 – August 16, 2026** &nbsp;·&nbsp; 📍 *Remote*
 
 - Completed hands-on AI/ML engineering assignments involving **Multimodal RAG**, **Agentic AI**, AI Debate Systems, and Voice AI
 - Built production-oriented backend systems using **Python, FastAPI, LangChain, LangGraph, LLM APIs, RAG, vector databases, Docker, PostgreSQL**
@@ -56,15 +58,25 @@ Full Stack AI Engineer with practical experience building production-oriented AI
 ---
 
 ### 🤖 AI Engineering Intern — FlyRank AI
-**July 2026 – Present** | *Remote*
+📅 **July 2026 – Present** &nbsp;·&nbsp; 📍 *Remote*
 
 - Building backend services with **Python and FastAPI** using **Repository Pattern**
 - Developing production AI systems with **PostgreSQL, Dependency Injection, and Docker**
 
+<details>
+<summary><b>Tech Stack</b></summary>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</details>
+
 ---
 
 ### 💼 Freelance Full Stack Web Developer
-**August 2025 – March 2026** | *Remote*
+📅 **August 2025 – March 2026** &nbsp;·&nbsp; 📍 *Remote*
 
 - Developed **full-stack web applications** for clients using **MERN Stack** (MongoDB, Express, React, Node.js)
 - Built **responsive interfaces, REST APIs, authentication systems, and database-backed features**
@@ -84,18 +96,37 @@ Full Stack AI Engineer with practical experience building production-oriented AI
 ---
 
 ### 💻 Full Stack Web Development Intern — Devrolin
-**June 2025 – September 2025** | *Rawalpindi, Pakistan*
+📅 **June 2025 – September 2025** &nbsp;·&nbsp; 📍 *Rawalpindi, Pakistan*
 
 - Developed **MERN Stack** features with **REST APIs and JWT authentication**
 - Worked with **MongoDB** and delivered full-stack features using Git workflows
 
+<details>
+<summary><b>Tech Stack</b></summary>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+
+</details>
+
 ---
 
 ### 🎨 Frontend Developer Intern — TMR Consulting
-**June 2024 – September 2024** | *Islamabad, Pakistan*
+📅 **June 2024 – September 2024** &nbsp;·&nbsp; 📍 *Islamabad, Pakistan*
 
 - Built responsive interfaces with **React.js, Next.js, Tailwind CSS**
 - Integrated **REST APIs** and optimized application performance
+
+<details>
+<summary><b>Tech Stack</b></summary>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</details>
 
 ---
 
@@ -208,11 +239,12 @@ View my projects and contributions across AI engineering and full-stack developm
 ---
 
 ## 📊 GitHub Statistics
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZAIN-UL-ABDIN-GHANI&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=ZAIN-UL-ABDIN-GHANI&theme=tokyonight&hide_border=true" alt="Zain's GitHub streak stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAIN-UL-ABDIN-GHANI&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAIN-UL-ABDIN-GHANI&theme=tokyo-night&hide_border=true&area=true" alt="Zain's GitHub activity graph" />
 
 </div>
 
@@ -220,9 +252,10 @@ View my projects and contributions across AI engineering and full-stack developm
 
 ## 🎓 Education
 
-**BS Computer Science**  
-Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST), Islamabad  
-📊 **CGPA:** 3.25 / 4.00 | 🎓 **Graduated:** June 2026
+**BS Computer Science**
+Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST), Islamabad
+
+📊 **CGPA:** 3.25 / 4.00 &nbsp;·&nbsp; 🎓 **Graduated:** June 2026
 
 ---
 
@@ -237,7 +270,7 @@ Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST), Islam
 
 <br/>
 
-**I'm interested in opportunities involving:**  
+**I'm interested in opportunities involving:**
 `AI Engineering` · `Agentic AI` · `LLM Applications` · `RAG Systems` · `Python` · `FastAPI` · `Full-Stack Development`
 
 If you're building something with AI, I'd love to collaborate! 🚀
