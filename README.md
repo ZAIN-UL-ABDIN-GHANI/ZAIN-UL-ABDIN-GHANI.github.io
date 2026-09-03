@@ -245,7 +245,7 @@ View my projects and contributions across AI engineering and full-stack developm
 <img src="https://streak-stats.demolab.com/?user=ZAIN-UL-ABDIN-GHANI&theme=tokyonight&hide_border=true" alt="Zain's GitHub streak stats" />
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZAIN-UL-ABDIN-GHANI&theme=tokyo-night&hide_border=true&area=true" alt="Zain's GitHub activity graph" />
+<img src="https://YOUR-APP.vercel.app/graph?username=ZAIN-UL-ABDIN-GHANI&theme=tokyo-night&hide_border=true&area=true" alt="Zain's GitHub activity graph" />
 
 </div>
 
